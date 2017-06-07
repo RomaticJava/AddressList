@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="AddressList"
+  id="myeclipse.1496837057736"
+  context-root="/AddressList"
+  j2ee-spec="6.0"
+  archive="AddressList.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
